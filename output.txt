@@ -1,0 +1,14 @@
+Card: Rhystic Study
+=====================================================================================================
+Low            Mid            High           Market         Printing       Set            
+=====================================================================================================
+26.99          31.48          249.99         29.89          Normal         Prophecy       
+200.00         220.00         400.00         206.05         Foil           Prophecy       
+N/A            N/A            N/A            N/A            Normal         Commander's Arsenal
+74.99          84.29          120.99         79.06          Foil           Commander's Arsenal
+N/A            N/A            N/A            N/A            Normal         Judge Promos   
+115.00         143.79         299.99         125.20         Foil           Judge Promos   
+25.88          32.56          49.99          32.64          Normal         Mystery Booster Cards
+N/A            N/A            N/A            N/A            Foil           Mystery Booster Cards
+N/A            N/A            N/A            N/A            Foil           Jumpstart      
+30.36          36.91          44.11          32.50          Normal         Jumpstart      
